@@ -1,0 +1,1 @@
+$(document).ready(function(){($("#returnActionName").val()=="ProfileAction")?$("#breadcrumb-container").show():$("#breadcrumb-container").hide();});
